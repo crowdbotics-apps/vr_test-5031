@@ -1,0 +1,3 @@
+rootProject.name = 'vr_test_5031'
+
+include ':app'
